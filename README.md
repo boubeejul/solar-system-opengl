@@ -10,7 +10,7 @@ Gabriel Bernardes Pereira e Juliana Boubée Cardozo
 ## Interações
 - `-` : rotação dos planetas no sentido horário e movimentação da nave
 - `Shift e +` : rotação dos planetas no sentido anti-horário e movimentação da nave
-- `up, down, left, righ` : movimentação da nave
+- `up, down, left, right` : movimentação da nave
 - `z` : aumenta o tamanho da nave
 - `x` : diminui o tamanho da nave
 - `botão esquerdo do mouse` : movimenta a nave para a posição do mouse
