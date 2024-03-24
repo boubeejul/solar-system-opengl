@@ -2,7 +2,7 @@
 Atividade em OpenGL para a matéria de Introdução à Computação Gráfica. O objetivo era utilizar das transformações (rotação, translação e escala) na cena montada com formas primitivas.
 
 ## Grupo
-Gabriel Bernardes Pereira e Juliana Boubée Cardozo
+Gabriel Bernardes e Juliana Cardozo
 
 ## Preview
 ![image](https://github.com/boubeejul/solar-system-opengl/assets/93846188/2d7ac5aa-9c30-4595-9711-16522cc90f8d)
